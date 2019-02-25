@@ -1,0 +1,44 @@
+div{
+	text-align: center;
+    display: inline-block;
+}
+
+
+.a
+{
+color: white;
+ background-color: pink; 
+ width:125px;
+ height: 20px;
+ border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+}
+.b
+{
+	color: hotpink;
+	background-color: lightblue;
+    width: 70px;
+    height: 20px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.vtn
+{
+ margin-top: 20px;	
+ color: white;
+ background-color: #17C3D6; 
+ width:125px;
+ height: 20px;
+ border-bottom-left-radius: 5px;
+border-top-left-radius: 5px;
+}
+.svn
+{
+	margin-top: 20px;
+	color: hotpink;
+	background-color:#7AF2B6;
+    width: 70px;
+    height: 20px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
