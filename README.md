@@ -1,18 +1,28 @@
 # tevychhy1.github.io
  I'm not really good at explaining but in order to pull request or fix this issue you should follow this several steps
  go to Git Bash
+ <br>
  command 
  cd -- 
+ <br>
  //this is to get started
+ <br>
  command
  cd desktop/
+ <br>
  //this is to open file in your desktop
+ <br>
  command
  cd yourfolder/
+ <br>
  //it can be any of your folder name, this is to open your folder in your desktop
+ <br>
  fork this repository
+ <br>
  go to clone button
+ <br>
  copy the link as SSH
+ <br>
  command
  git clone (link of your SSH after you forked)
  command
